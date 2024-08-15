@@ -1,3 +1,7 @@
 This is file1
 
+<<<<<<< HEAD
 Modified file1
+=======
+This is file1 modified to show the concept of detached state
+>>>>>>> new
